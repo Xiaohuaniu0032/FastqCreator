@@ -1,0 +1,1 @@
+{"torrent_server_version_name": "3.4.2", "plugin_name": "FastqCreator", "jive_username": "torrentcircuit", "short_description": "Generate a FASTQ file from unaligned BAM", "version_name": "3.4.56313", "long_description": "This plugin generates a FastQ file from unaligned BAM for Proton Runs."}
